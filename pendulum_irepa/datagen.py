@@ -1,8 +1,7 @@
-
 import numpy as np
 import crocoddyl
 import torch
-from solver import solve_problem
+from ddp_solver import solve_problem
 
 class Datagen:
     
