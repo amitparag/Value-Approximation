@@ -1,0 +1,27 @@
+
+ Problems: 1 , Time : 1.393seconds, Horizon : 100, Precision : 1e-09, Maxiters : 1000 
+ 
+ Problems: 10 , Time : 5.982seconds, Horizon : 100, Precision : 1e-09, Maxiters : 1000 
+ 
+ Problems: 10 , Time : 14.199seconds, Horizon : 200, Precision : 1e-09, Maxiters : 1000 
+ 
+ Problems: 100 , Time : 59.256seconds, Horizon : 100, Precision : 1e-09, Maxiters : 1000 
+ 
+ Problems: 100 , Time : 91.265seconds, Horizon : 200, Precision : 1e-09, Maxiters : 1000 
+ 
+ Problems: 100 , Time : 57.565seconds, Horizon : 100, Precision : 1e-07, Maxiters : 1000 
+ 
+ Problems: 100 , Time : 46.627seconds, Horizon : 150, Precision : 1e-07, Maxiters : 1000 
+ 
+ Problems: 200 , Time : 162.006seconds, Horizon : 200, Precision : 1e-07, Maxiters : 1000 
+ 
+ Problems: 100 , Time : 48.818seconds, Horizon : 100, Precision : 1e-09, Maxiters : 1000 
+ 
+ Problems: 100 , Time : 105.188seconds, Horizon : 200, Precision : 1e-09, Maxiters : 1000 
+ 
+ Problems: 100 , Time : 38.943seconds, Horizon : 100, Precision : 1e-07, Maxiters : 1000 
+ 
+ Problems: 1000 , Time : 510.977seconds, Horizon : 100, Precision : 1e-09, Maxiters : 1000 
+ 
+ Problems: 1000 , Time : 695.251seconds, Horizon : 150, Precision : 1e-09, Maxiters : 1000 
+ 

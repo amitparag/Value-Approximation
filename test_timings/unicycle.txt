@@ -1,0 +1,13 @@
+
+ Problems: 10000 , Time : 5.416seconds, Horizon : 30, Precision : 1e-09, Maxiters : 1000 
+ 
+ Problems: 10000 , Time : 31.831seconds, Horizon : 100, Precision : 1e-09, Maxiters : 1000 
+ 
+ Problems: 10000 , Time : 77.315seconds, Horizon : 200, Precision : 1e-09, Maxiters : 1000 
+ 
+ Problems: 10000 , Time : 4.955seconds, Horizon : 30, Precision : 1e-07, Maxiters : 1000 
+ 
+ Problems: 10000 , Time : 28.121seconds, Horizon : 100, Precision : 1e-07, Maxiters : 1000 
+ 
+ Problems: 10000 , Time : 63.989seconds, Horizon : 200, Precision : 1e-07, Maxiters : 1000 
+ 

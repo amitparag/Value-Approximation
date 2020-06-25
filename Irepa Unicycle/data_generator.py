@@ -172,7 +172,7 @@ class Datagen:
                 
             for i in range(len(values)):
                 values[i] =  sum(values[i:]) + ddp.problem.terminalData.cost
-                
+            values.append(ddp.problem.terminalData.cost)
             xs = np.array(ddp.xs)
             
             for node, cost in zip(xs, values):
